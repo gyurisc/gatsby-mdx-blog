@@ -26,3 +26,9 @@ body {
     color: var(--mainWhite);
     margin: 2rem 0;
 }
+
+.counter {
+    color: green;
+    margin: 3rem 0;
+    text-transform: capitalize;
+}
